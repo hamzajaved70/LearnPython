@@ -1,3 +1,10 @@
+# My understanding of Sieve of Eratosthenes
+
+# 1. Add all numbers below n to a list and mark them as True
+# 2. Set p = 2 and loop through p until p squared is less then or equal to n
+# 3.  Mark all multiples of p as False
+# 4. Remaining True items in list are prime.
+
 # input max number for primes
 n = int(input())
 # create list of numbers and mark them all as prime initially
