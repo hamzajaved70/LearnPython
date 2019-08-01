@@ -1,4 +1,4 @@
 # LearnPython
 
-Sieve of Eratosthenes
-Binary Search
+# Sieve of Eratosthenes
+# Binary Search
